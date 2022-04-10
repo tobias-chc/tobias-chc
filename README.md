@@ -1,10 +1,8 @@
 ## Hi there!
 
-## I am Tobías Chavarria, I am a mathematician.
+## I am Tobías Chavarria
 
-I’m interested in data science, mathematics, machine learning, finances.
-
-I’m currently learning Data Science and AI at DSTI (Data ScienceTech Institute)
+Mathematician, currently Data Science and AI student at [DSTI](https://www.datasciencetech.institute/applied-msc-in-data-science-and-artificial-intelligence/?gclid=CjwKCAiAsNKQBhAPEiwAB-I5zUOlEEBmAcXxPuOluWewpNQ-r_JX3SU0YhZ0MpSey0ZJ1ODX0-FYExoCCgoQAvD_BwE), interest in research, Deep Learning, and Computer Vision. 
 
 Below, The projects and personal work I've done during the last 6 months
 
